@@ -15,6 +15,12 @@ public class SolarSystem {
         Xros.temp= "5000C";
         Xros.Color="Yellow";
         Xros.Radius="696340km";
+
+
+        Planet2 Earth=new Planet2();
+        Earth.Color="Blue";
+        Earth.temp="20C";
+        
     }
 
 
